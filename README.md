@@ -1,9 +1,7 @@
 # Text-Processing
-Identitas Kelompok 
-
 Kelas 2025C
 
-Program Studi Sains Data
+Program Studi S1 Sains Data
 
 Universitas Negeri Surabaya
 
